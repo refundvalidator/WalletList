@@ -24,6 +24,7 @@ req = requests.session()
 res = req.get(f'{url}/auth/v1beta1/accounts').json()
 total_wallets = int(res['pagination']['total'])
 total = {
+    'last_updated' : 0,
     'total_wallets': total_wallets,
     'total_spendable' : 0,
     'total_delegations' : 0,
@@ -147,8 +148,8 @@ for wallet in wallets:
 for val in validators:
     val['commission'] = f"{round(val['commission']/1000000000,2):,}"
 
-
-
+t = time.localtime()
+total['last_updated'] = f'{time.strftime("%H:%M", t)} CST'
 total['grand_total'] = f"{round(total['grand_total']/1000000000,2):,}"
 total['total_spendable'] = f"{round(total['total_spendable']/1000000000,2):,}"
 total['total_delegations'] = f"{round(total['total_delegations']/1000000000,2):,}"
