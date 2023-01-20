@@ -11,12 +11,13 @@ named_wallets={
     "Cold Wallet" : "und1fxnqz9evaug5m4xuh68s62qg9f5xe2vzsj44l8",
     "All Delegations" : "und1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3j7wxl3",
     "Burned" : "und1qqqqqqqqqqqqqqqqqqqqqqqqqqqqph4djz5txt",
-    "reFUND Validator" : "und1k03uvkkzmtkvfedufaxft75yqdfkfgvgm77zwm",
+    "reFUND" : "und1k03uvkkzmtkvfedufaxft75yqdfkfgvgm77zwm",
     "Bitforex" : "und18mcmhkq6fmhu9hpy3sx5cugqwv6z0wrz7nn5d7",
     "Poloniex" : "und186slma7kkxlghwc3hzjr9gkqwhefhln5pw5k26",
 }
 
-url = f'https://rest.unification.io/cosmos'
+url = f'http://localhost:1317/cosmos'
+#url = f'https://rest.unification.io/cosmos'
 
 params={'pagination.limit' : '1000000000'}
 req = requests.session()
@@ -67,7 +68,7 @@ for r in res['validators']:
         "commission" : 0, 
     })
 
-### Gets amounts for each validators commissions (including inactive) ###
+### Adds amounts for each validators commissions (including inactive) ###
 for val in validators:
     res = req.get(f'{url}/distribution/v1beta1/validators/{val["address"]}/commission').json()
     for com in res['commission']['commission']:
@@ -87,7 +88,7 @@ for wallet in wallets:
         if y == wallet["address"]:
             wallet["name"] = x
 
-    # Adds balance
+    # Adds spendable balance
     res = req.get(f'{url}/bank/v1beta1/balances/{wallet["address"]}').json()
     for bal in res['balances']:
         amount = float(bal['amount'])
@@ -136,23 +137,24 @@ i = 0
 for wallet in wallets:
     i += 1
     wallet['rank'] = i
-    wallet['total'] = f"{round(wallet['total']/1000000000,4):,}"
-    wallet['spendable'] = f"{round(wallet['spendable']/1000000000,4):,}"
-    wallet['delegations'] = f"{round(wallet['delegations']/1000000000,4):,}"
-    wallet['unbondings'] = f"{round(wallet['unbondings']/1000000000,4):,}"
-    wallet['rewards'] = f"{round(wallet['rewards']/1000000000,4):,}"
+    wallet['total'] = f"{round(wallet['total']/1000000000,2):,}"
+    wallet['spendable'] = f"{round(wallet['spendable']/1000000000,2):,}"
+    wallet['delegations'] = f"{round(wallet['delegations']/1000000000,2):,}"
+    wallet['unbondings'] = f"{round(wallet['unbondings']/1000000000,2):,}"
+    wallet['rewards'] = f"{round(wallet['rewards']/1000000000,2):,}"
     
 
 for val in validators:
-    val['commission'] = f"{round(val['commission']/1000000000,4):,}"
-    
+    val['commission'] = f"{round(val['commission']/1000000000,2):,}"
 
-total['grand_total'] = f"{round(total['grand_total']/1000000000,4):,}"
-total['total_spendable'] = f"{round(total['total_spendable']/1000000000,4):,}"
-total['total_delegations'] = f"{round(total['total_delegations']/1000000000,4):,}"
-total['total_unbondings'] = f"{round(total['total_unbondings']/1000000000,4):,}"
-total['total_rewards'] = f"{round(total['total_rewards']/1000000000,4):,}"
-total['total_commission'] = f"{round(total['total_commission']/1000000000,4):,}"
+
+
+total['grand_total'] = f"{round(total['grand_total']/1000000000,2):,}"
+total['total_spendable'] = f"{round(total['total_spendable']/1000000000,2):,}"
+total['total_delegations'] = f"{round(total['total_delegations']/1000000000,2):,}"
+total['total_unbondings'] = f"{round(total['total_unbondings']/1000000000,2):,}"
+total['total_rewards'] = f"{round(total['total_rewards']/1000000000,2):,}"
+total['total_commission'] = f"{round(total['total_commission']/1000000000,2):,}"
 
 info = {
     "total" : total,
@@ -163,5 +165,7 @@ info = {
 with open('wallets.json', 'w') as u:
     json.dump(info,u,indent=4)
     
-
-print(f"Completed in {(time.time()-start)/60} minutes")
+if (time.time()-start)/60 > 1:
+    print(f"Completed in {round((time.time()-start)/60,2)} minutes")
+else:
+    print(f"Completed in {round((time.time()-start),2)} seconds")
