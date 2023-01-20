@@ -15,6 +15,8 @@ Amounts are rounded to the nearest 2 decimal places.
 
 wallets.json is automatically updated every 3 minutes on this page, for easy reference.
 
+### If you would like your wallet to be named in the list please add it to the `named_wallets` variable in main.py and sumbit a pull request, or message me directly
+
 ## Results will include the following results:
 
 ### For Every Wallet:
