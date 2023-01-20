@@ -14,6 +14,8 @@ named_wallets={
     "reFUND" : "und1k03uvkkzmtkvfedufaxft75yqdfkfgvgm77zwm",
     "Bitforex" : "und18mcmhkq6fmhu9hpy3sx5cugqwv6z0wrz7nn5d7",
     "Poloniex" : "und186slma7kkxlghwc3hzjr9gkqwhefhln5pw5k26",
+    "Probit" : "und1jkhkllr3ws3uxclawn4kpuuglffg327wvfg8r9",
+    "wFUND" : "und12k2pyuylm9t7ugdvz67h9pg4gmmvhn5vcrzmhj",
 }
 
 url = f'http://localhost:1317/cosmos'
