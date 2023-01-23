@@ -9,13 +9,17 @@ validators = []
 
 named_wallets={
     "Cold Wallet" : "und1fxnqz9evaug5m4xuh68s62qg9f5xe2vzsj44l8",
-    "All Delegations" : "und1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3j7wxl3",
+    "All Unjailed Delegations" : "und1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3j7wxl3",
+    "Unbonding/Jailed Delegations" : "und1tygms3xhhs3yv487phx3dw4a95jn7t7lx7jhf9",
+    "Unclaimed Rewards" : "	und1dacj9whw3gxpa0exrknet5x2u07wvpkevnn5hd",
     "Burned" : "und1qqqqqqqqqqqqqqqqqqqqqqqqqqqqph4djz5txt",
     "reFUND" : "und1k03uvkkzmtkvfedufaxft75yqdfkfgvgm77zwm",
-    "Bitforex" : "und18mcmhkq6fmhu9hpy3sx5cugqwv6z0wrz7nn5d7",
-    "Poloniex" : "und186slma7kkxlghwc3hzjr9gkqwhefhln5pw5k26",
-    "Probit" : "und1jkhkllr3ws3uxclawn4kpuuglffg327wvfg8r9",
+    "Bitforex [CEX]" : "und18mcmhkq6fmhu9hpy3sx5cugqwv6z0wrz7nn5d7",
+    "Poloniex [CEX]" : "und186slma7kkxlghwc3hzjr9gkqwhefhln5pw5k26",
+    "Probit [CEX]" : "und1jkhkllr3ws3uxclawn4kpuuglffg327wvfg8r9",
     "wFUND" : "und12k2pyuylm9t7ugdvz67h9pg4gmmvhn5vcrzmhj",
+    "Digifinex [CEX]" : "und1xnrruk9qlgnmh8qxcz9ypfezj45qk96v2rgnzk",
+    "Locked eFUND" : "und1nwt6chnk0efe8ngwa5y63egmdumht6arlvluh3",
 }
 
 url = f'http://localhost:1317/cosmos'
