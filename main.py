@@ -20,6 +20,7 @@ named_wallets={
     "wFUND" : "und12k2pyuylm9t7ugdvz67h9pg4gmmvhn5vcrzmhj",
     "Digifinex [CEX]" : "und1xnrruk9qlgnmh8qxcz9ypfezj45qk96v2rgnzk",
     "Locked eFUND" : "und1nwt6chnk0efe8ngwa5y63egmdumht6arlvluh3",
+    "Ringoshi" : "und1zkcjkyfr9t3ne8w9jv0gx79fczv8ptnr8fuc28",
 }
 
 url = f'http://localhost:1317/cosmos'
