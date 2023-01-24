@@ -99,11 +99,15 @@ for wallet in wallets:
     # Adds spendable balance
     res = req.get(f'{url}/bank/v1beta1/balances/{wallet["address"]}').json()
     for bal in res['balances']:
-        amount = float(bal['amount'])
-        wallet['spendable'] += amount
-        wallet['total'] += amount
-        total['grand_total'] += amount
-        total['total_spendable'] += amount
+        if wallet['name'] == "Locked eFUND":
+            wallet['total'] += amount
+            wallet['spendable'] += amount
+        else:
+            amount = float(bal['amount'])
+            wallet['spendable'] += amount
+            wallet['total'] += amount
+            total['grand_total'] += amount
+            total['total_spendable'] += amount
 
     # Adds rewards
     res = req.get(f'{url}/distribution/v1beta1/delegators/{wallet["address"]}/rewards').json()
