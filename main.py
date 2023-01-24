@@ -102,7 +102,7 @@ for wallet in wallets:
         amount = float(bal['amount'])
         wallet['spendable'] += amount
         wallet['total'] += amount
-        if wallet['name'] != "Locked eFUND":
+        if wallet['name'] != "Locked eFUND" and wallet['name'] != "All Unjailed Delegations" and wallet['name'] != "Unclaimed Rewards":
             total['grand_total'] += amount
             total['total_spendable'] += amount
 
