@@ -166,7 +166,7 @@ named_wallets={
     "ProFUNDity":"und103mfr6p3lky066lupyc3seh8rcpjn0j675n4s0",
     "rebirth":"und13psclh7a5cz28dytu5qafzp759nygdlgc7mvps",
     "reFUND":"und1k03uvkkzmtkvfedufaxft75yqdfkfgvgm77zwm",
-    "REUMining":"und1fryf3lkxr3ptufnhqrek03e3vn38wz6ckzl0xu",
+    "Ringoshi":"und1fryf3lkxr3ptufnhqrek03e3vn38wz6ckzl0xu",
     "robinD":"und1c2zpxstskf4vau7tkyj607j4rkun2uj8ap5dae",
     "Rocinante":"und1hhpr8qr65rn4f6fckfuvdryghmgf24xwqc0cv5",
     "SatsangG":"und1hy95gced04wsdh67lxm6r5rsjchz9l9zpfw2gg",
