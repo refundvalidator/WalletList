@@ -3,7 +3,6 @@ named_wallets={
     "Burned" : "und1qqqqqqqqqqqqqqqqqqqqqqqqqqqqph4djz5txt",
     "Cold Wallet" : "und1fxnqz9evaug5m4xuh68s62qg9f5xe2vzsj44l8",
     "Unbonding/Jailed Delegations" : "und1tygms3xhhs3yv487phx3dw4a95jn7t7lx7jhf9",
-    "Unclaimed Rewards" : "und1dacj9whw3gxpa0exrknet5x2u07wvpkevnn5hd",
     "Locked eFUND" : "und1nwt6chnk0efe8ngwa5y63egmdumht6arlvluh3",
     "wFUND" : "und12k2pyuylm9t7ugdvz67h9pg4gmmvhn5vcrzmhj",
 
@@ -14,7 +13,7 @@ named_wallets={
     "Digifinex [CEX]" : "und1xnrruk9qlgnmh8qxcz9ypfezj45qk96v2rgnzk",
     
     # Individuals
-    "Ringoshi" : "und1zkcjkyfr9t3ne8w9jv0gx79fczv8ptnr8fuc28",
+    "RingoshiPersonal" : "und1zkcjkyfr9t3ne8w9jv0gx79fczv8ptnr8fuc28",
     
     # Validators
     "1MAXFUND":"und1atklfd7mt6phxddu4zhw0fs7unjdlfay0qtgtp",
@@ -37,6 +36,7 @@ named_wallets={
     "Blocks":"und10uf4ylht9w0n7re70pj6hw97rtvwsxy3cquaqs",
     "Bumblebee":"und12uknws0z03jtuklwqtu54lx9t4sktgkjlhj7yh",
     "Chainmasters":"und16hten3u6gqcu30t2rrt8e8ayn8690he0dnwfsu",
+    "Chainmasters Test":"und1x8nvk7jyg6n03fj9hh2vd7uhllwsgpvhva6ehs",
     "Chainmasters-01":"und1f9qwqz6gueuma829pfuel0gzzwph32qh5dyj7w",
     "Chainmasters-010":"und1j6fhwm2qlx6luagwl5we4fhsy63xeaunfksc2w",
     "Chainmasters-02":"und16we3ars0rpysmnwvhvk6e97gasqfql0z83qtvg",
@@ -161,6 +161,7 @@ named_wallets={
     "node34":"und12tqkvyep26n8p4lc5vxqelhn2jepfuumy6u5dz",
     "Optimusprime":"und1lglu5ducrd78mp3jr3zzun783wnwenqwpu9nxk",
     "palestine-local":"und1dkhr8dejw4hsnuff35qhefl05e8qqs7hdk6ze2",
+    "petazetas":"und14nv3yz7hk3qxjyv0fnk65p9jududct6qhpguye",
     "Powermachine":"und19u622p7tf79hhppnuzhxsujvwf8u0nveaflqqh",
     "ProFUNDity":"und103mfr6p3lky066lupyc3seh8rcpjn0j675n4s0",
     "rebirth":"und13psclh7a5cz28dytu5qafzp759nygdlgc7mvps",
