@@ -14,6 +14,9 @@ named_wallets={
     
     # Individuals
     "RingoshiPersonal" : "und1zkcjkyfr9t3ne8w9jv0gx79fczv8ptnr8fuc28",
+
+    # Partners
+    "WoofWork" : "und1mtahwg9ccxn3xf8k0mdjzgalulkh42v2h0sp94",
     
     # Validators
     "1MAXFUND":"und1atklfd7mt6phxddu4zhw0fs7unjdlfay0qtgtp",
