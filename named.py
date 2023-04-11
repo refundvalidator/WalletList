@@ -1,10 +1,14 @@
 named_wallets={
+    # ETC
     "All Unjailed Delegations" : "und1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3j7wxl3",
     "Burned" : "und1qqqqqqqqqqqqqqqqqqqqqqqqqqqqph4djz5txt",
     "Cold Wallet" : "und1fxnqz9evaug5m4xuh68s62qg9f5xe2vzsj44l8",
     "Unbonding/Jailed Delegations" : "und1tygms3xhhs3yv487phx3dw4a95jn7t7lx7jhf9",
     "Locked eFUND" : "und1nwt6chnk0efe8ngwa5y63egmdumht6arlvluh3",
     "wFUND" : "und12k2pyuylm9t7ugdvz67h9pg4gmmvhn5vcrzmhj",
+
+    # Foundation Wallets
+    "Foundation Wallet #1" : "und1pyqttnfyqujh4hvjhcx45mz8svptp6f40n4u3p",
 
     # Cex
     "Bitforex [CEX]" : "und18mcmhkq6fmhu9hpy3sx5cugqwv6z0wrz7nn5d7",
@@ -187,6 +191,7 @@ named_wallets={
     "Unification Network Validator":"und1zj4pw66saqphftmnuu3t3tnq5qpkq4ndclh9cd",
     "Validator.cc":"und1pxhatlprv9344pjqr4ncuxpse6qyldr0phxecn",
     "validatorhub":"und1y8a3ndw4wfva46cad4r5x0vf3mav6zvsyer0dg",
+    "WoofWork":"und14knj8ehsufrg5whtkrfrdwygp8mfwvp6lg6wee",
     "XFUND4EVER":"und1u8czkjqx2tfu6y6t968uk94lvtpdnnzeedahpc",
     "xFund4you":"und1admj3u3l8n26r7q692xssmaah8dfhwg69zxj6j",
     "xFUNDMRT":"und1qmfw59gc7f6hggx9yr792j07jq40x9jugjjwwc",
