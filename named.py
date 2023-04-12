@@ -2,12 +2,12 @@ named_wallets={
     # ETC
     "All Unjailed Delegations" : "und1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3j7wxl3",
     "Burned" : "und1qqqqqqqqqqqqqqqqqqqqqqqqqqqqph4djz5txt",
-    "Foundation Wallet #1 (Cold)" : "und1fxnqz9evaug5m4xuh68s62qg9f5xe2vzsj44l8",
     "Unbonding/Jailed Delegations" : "und1tygms3xhhs3yv487phx3dw4a95jn7t7lx7jhf9",
     "Locked eFUND" : "und1nwt6chnk0efe8ngwa5y63egmdumht6arlvluh3",
     "wFUND (ERC-20)" : "und12k2pyuylm9t7ugdvz67h9pg4gmmvhn5vcrzmhj",
 
     # Foundation Wallets
+    "Foundation Wallet #1 (Cold)" : "und1fxnqz9evaug5m4xuh68s62qg9f5xe2vzsj44l8",
     "Foundation Wallet #2" : "und1pyqttnfyqujh4hvjhcx45mz8svptp6f40n4u3p",
     "Foundation Wallet #3" : "und1cwhkh2ag8w2lf3ngd509wzy43ljxkkn3qe3q4z",
 
