@@ -15,7 +15,7 @@ Amounts are rounded to the nearest 2 decimal places.
 
 wallets.json is automatically updated every 3 minutes on this page, for easy reference.
 
-### If you would like your wallet to be named in the list please add it to the `named_wallets` variable in main.py and sumbit a pull request, or message me directly
+### If you would like your wallet to be named in the list please add it to the `named.py` file and sumbit a pull request, or message me directly
 
 ## Results will include the following results:
 
@@ -39,8 +39,8 @@ wallets.json is automatically updated every 3 minutes on this page, for easy ref
 
 `pip`
 
-Use `pip install -r requirements.txt` to install remaining pip dependencies.
+Use `pip install -r requirements.txt` to install remaining dependencies.
 
 # Usage
 
-Simply run `python3 main.py` and wait for the script to finish, then the wallets.json file will be automatically updated.
+Simply run `python3 main.py` and wait for the script to finish, then the wallets.json file will be updated.
