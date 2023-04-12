@@ -9,6 +9,7 @@ named_wallets={
 
     # Foundation Wallets
     "Foundation Wallet #1" : "und1pyqttnfyqujh4hvjhcx45mz8svptp6f40n4u3p",
+    "Foundation Wallet #2" : "und1cwhkh2ag8w2lf3ngd509wzy43ljxkkn3qe3q4z",
 
     # Cex
     "Bitforex [CEX]" : "und18mcmhkq6fmhu9hpy3sx5cugqwv6z0wrz7nn5d7",
