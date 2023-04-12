@@ -9,7 +9,8 @@ named_wallets={
     # Foundation Wallets
     "Foundation Wallet #1 (Cold)" : "und1fxnqz9evaug5m4xuh68s62qg9f5xe2vzsj44l8",
     "Foundation Wallet #2" : "und1pyqttnfyqujh4hvjhcx45mz8svptp6f40n4u3p",
-    "Foundation Wallet #3" : "und1cwhkh2ag8w2lf3ngd509wzy43ljxkkn3qe3q4z",
+    "Foundation Wallet #3" : "und1hdn830wndtquqxzaz3rds7r7hqgpsg5q9ggxpk",
+    "Foundation Wallet #4" : "und1cwhkh2ag8w2lf3ngd509wzy43ljxkkn3qe3q4z",
 
     # Cex
     "Bitforex [CEX]" : "und18mcmhkq6fmhu9hpy3sx5cugqwv6z0wrz7nn5d7",
