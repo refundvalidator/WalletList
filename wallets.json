@@ -1,13 +1,13 @@
 {
     "total": {
-        "last_updated": "16:33 CST",
+        "last_updated": "16:36 CST",
         "total_wallets": 2243,
-        "total_spendable": "75,509,489.91",
+        "total_spendable": "75,509,502.91",
         "total_delegations": "50,766,505.9",
         "total_unbondings": "226,454.03",
-        "total_rewards": "782,813.77",
-        "total_commission": "132,373.12",
-        "grand_total": "127,417,636.74"
+        "total_rewards": "782,825.48",
+        "total_commission": "132,374.16",
+        "grand_total": "127,417,662.48"
     },
     "wallets": [
         {
@@ -47,22 +47,22 @@
             "rank": 4,
             "name": "Foundation Wallet #2",
             "address": "und1pyqttnfyqujh4hvjhcx45mz8svptp6f40n4u3p",
-            "total": "13,438,285.0",
+            "total": "13,438,287.48",
             "spendable": "3,479,109.35",
             "delegations": "9,850,930.0",
             "unbondings": "0.0",
-            "rewards": "108,245.65",
+            "rewards": "108,248.13",
             "commission": "0.0"
         },
         {
             "rank": 5,
             "name": "Foundation Wallet #3",
             "address": "und1hdn830wndtquqxzaz3rds7r7hqgpsg5q9ggxpk",
-            "total": "12,700,466.77",
+            "total": "12,700,469.61",
             "spendable": "931,987.79",
             "delegations": "11,638,670.38",
             "unbondings": "0.0",
-            "rewards": "129,808.59",
+            "rewards": "129,811.44",
             "commission": "0.0"
         },
         {
@@ -80,8 +80,8 @@
             "rank": 7,
             "name": "Locked eFUND",
             "address": "und1nwt6chnk0efe8ngwa5y63egmdumht6arlvluh3",
-            "total": "6,304,069.0",
-            "spendable": "6,304,069.0",
+            "total": "6,304,056.0",
+            "spendable": "6,304,056.0",
             "delegations": "0.0",
             "unbondings": "0.0",
             "rewards": "0.0",
@@ -91,33 +91,33 @@
             "rank": 8,
             "name": "Foundation Wallet #4",
             "address": "und1cwhkh2ag8w2lf3ngd509wzy43ljxkkn3qe3q4z",
-            "total": "5,173,396.94",
+            "total": "5,173,397.49",
             "spendable": "2,343,927.3",
             "delegations": "2,699,893.33",
             "unbondings": "0.0",
-            "rewards": "129,576.31",
+            "rewards": "129,576.86",
             "commission": "0.0"
         },
         {
             "rank": 9,
             "name": "Wallet",
             "address": "und1tm5fsmyastu7c5kna0hxy8tnxup8ll2tx0475r",
-            "total": "4,638,172.22",
+            "total": "4,638,173.25",
             "spendable": "85,083.5",
             "delegations": "4,473,654.78",
             "unbondings": "0.0",
-            "rewards": "79,433.95",
+            "rewards": "79,434.98",
             "commission": "0.0"
         },
         {
             "rank": 10,
             "name": "Wallet",
             "address": "und1q0knwyumlsyygevw78qeljd26aagj6l0k9dh4l",
-            "total": "4,098,899.39",
+            "total": "4,098,899.47",
             "spendable": "3,662,820.84",
             "delegations": "418,894.51",
             "unbondings": "0.0",
-            "rewards": "17,184.04",
+            "rewards": "17,184.12",
             "commission": "0.0"
         },
         {
@@ -190,30 +190,30 @@
             "rank": 17,
             "name": "Ringoshi Personal",
             "address": "und1zkcjkyfr9t3ne8w9jv0gx79fczv8ptnr8fuc28",
-            "total": "1,258,427.22",
+            "total": "1,258,427.53",
             "spendable": "2.87",
             "delegations": "1,258,410.07",
             "unbondings": "0.0",
-            "rewards": "14.28",
+            "rewards": "14.59",
             "commission": "0.0"
         },
         {
             "rank": 18,
             "name": "Wallet",
             "address": "und16nelwhp39x3r48m0q8xnlmefnrka3hkee7mhsk",
-            "total": "1,029,214.93",
+            "total": "1,029,215.16",
             "spendable": "5,311.98",
             "delegations": "1,006,039.76",
             "unbondings": "0.0",
-            "rewards": "17,863.18",
+            "rewards": "17,863.41",
             "commission": "0.0"
         },
         {
             "rank": 19,
             "name": "Wallet",
             "address": "und1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8q6r40e",
-            "total": "990,657.68",
-            "spendable": "990,657.68",
+            "total": "990,670.68",
+            "spendable": "990,670.68",
             "delegations": "0.0",
             "unbondings": "0.0",
             "rewards": "0.0",
@@ -223,66 +223,66 @@
             "rank": 20,
             "name": "Wallet",
             "address": "und17eyly34kytdh4z7py3eujuk030mndp6tdgsyhy",
-            "total": "989,576.83",
+            "total": "989,577.1",
             "spendable": "0.26",
             "delegations": "988,583.09",
             "unbondings": "0.0",
-            "rewards": "993.48",
+            "rewards": "993.75",
             "commission": "0.0"
         },
         {
             "rank": 21,
             "name": "Wallet",
             "address": "und1qauzkrnk43nkmsvlgjjprqppvwdj20w2huhhdm",
-            "total": "912,043.19",
+            "total": "912,043.46",
             "spendable": "987.76",
             "delegations": "910,940.88",
             "unbondings": "0.0",
-            "rewards": "114.55",
+            "rewards": "114.82",
             "commission": "0.0"
         },
         {
             "rank": 22,
             "name": "Wallet",
             "address": "und1c7qp0lmlwen63wpyph9umzqlxw8tteft6wk206",
-            "total": "769,899.65",
+            "total": "769,899.82",
             "spendable": "16.62",
             "delegations": "765,548.44",
             "unbondings": "0.0",
-            "rewards": "4,334.59",
+            "rewards": "4,334.76",
             "commission": "0.0"
         },
         {
             "rank": 23,
             "name": "Wallet",
             "address": "und1ut5shpptkm3hs98vhu6z3rmksn2tffx0xrstaz",
-            "total": "581,466.29",
+            "total": "581,466.44",
             "spendable": "57.95",
             "delegations": "580,000.0",
             "unbondings": "0.0",
-            "rewards": "1,408.34",
+            "rewards": "1,408.49",
             "commission": "0.0"
         },
         {
             "rank": 24,
             "name": "Wallet",
             "address": "und1f3x4p6r32z23hmesns5e7mrqyfw57lqdlphu0c",
-            "total": "507,263.71",
+            "total": "507,263.84",
             "spendable": "11.88",
             "delegations": "507,224.18",
             "unbondings": "0.0",
-            "rewards": "27.66",
+            "rewards": "27.78",
             "commission": "0.0"
         },
         {
             "rank": 25,
             "name": "Wallet",
             "address": "und180lgm5csj0xf5564gwsvztl70d946g9ne5c43y",
-            "total": "461,679.93",
+            "total": "461,680.05",
             "spendable": "0.02",
             "delegations": "456,564.0",
             "unbondings": "0.0",
-            "rewards": "5,115.91",
+            "rewards": "5,116.03",
             "commission": "0.0"
         },
         {
@@ -300,55 +300,55 @@
             "rank": 27,
             "name": "Wallet",
             "address": "und1n4efvzm9n9r06v3q32f8cwl26ak3wjfuguvsm9",
-            "total": "436,857.18",
+            "total": "436,857.29",
             "spendable": "19,254.25",
             "delegations": "408,002.07",
             "unbondings": "0.0",
-            "rewards": "9,600.86",
+            "rewards": "9,600.98",
             "commission": "0.0"
         },
         {
             "rank": 28,
             "name": "Wallet",
             "address": "und10czluj5x47cp5jxwuxpjurfcvtfcsnv0fhsmhy",
-            "total": "433,397.45",
+            "total": "433,397.54",
             "spendable": "9.91",
             "delegations": "432,496.63",
             "unbondings": "0.0",
-            "rewards": "890.92",
+            "rewards": "891.01",
             "commission": "0.0"
         },
         {
             "rank": 29,
             "name": "Wallet",
             "address": "und13lhsmku7ce4xklven2s8ull532eck0ytegj8hj",
-            "total": "405,169.43",
+            "total": "405,169.54",
             "spendable": "0.07",
             "delegations": "405,158.65",
             "unbondings": "0.0",
-            "rewards": "10.71",
+            "rewards": "10.82",
             "commission": "0.0"
         },
         {
             "rank": 30,
             "name": "Wallet",
             "address": "und1l83zzc6t0a8ckas6e9mtjppxd7qthzr8c55hcf",
-            "total": "356,359.33",
+            "total": "356,359.43",
             "spendable": "2.12",
             "delegations": "356,195.01",
             "unbondings": "0.0",
-            "rewards": "162.19",
+            "rewards": "162.29",
             "commission": "0.0"
         },
         {
             "rank": 31,
             "name": "Wallet",
             "address": "und1v6pwzrw0p4eze73utsvl4c5um4sw5rmm66shgf",
-            "total": "343,740.56",
+            "total": "343,740.6",
             "spendable": "176,235.39",
             "delegations": "165,309.43",
             "unbondings": "0.0",
-            "rewards": "2,195.73",
+            "rewards": "2,195.78",
             "commission": "0.0"
         },
         {
@@ -377,198 +377,198 @@
             "rank": 34,
             "name": "FUND THAILAND",
             "address": "und10x8wj7trth9f5ma2f3wkrptwnys4squvmwrykd",
-            "total": "324,128.66",
+            "total": "324,128.73",
             "spendable": "38,262.84",
             "delegations": "285,321.68",
             "unbondings": "0.0",
-            "rewards": "483.09",
+            "rewards": "483.16",
             "commission": "61.05"
         },
         {
             "rank": 35,
             "name": "Wallet",
             "address": "und1k8vxjsxe0hm7rlswm93w67h5ntgaszcefv3a4e",
-            "total": "320,233.9",
+            "total": "320,233.98",
             "spendable": "616.25",
             "delegations": "319,096.0",
             "unbondings": "0.0",
-            "rewards": "521.65",
+            "rewards": "521.73",
             "commission": "0.0"
         },
         {
             "rank": 36,
             "name": "Wallet",
             "address": "und1x35075fn6q80a4rg4x7lgks6hjyypjf5tg8g48",
-            "total": "308,595.88",
+            "total": "308,595.96",
             "spendable": "2.94",
             "delegations": "307,924.7",
             "unbondings": "0.0",
-            "rewards": "668.24",
+            "rewards": "668.32",
             "commission": "0.0"
         },
         {
             "rank": 37,
             "name": "Archimedes",
             "address": "und1jcg96ke6lplr4r9p2dj4v4hnw7dcf5cswx8r92",
-            "total": "311,623.43",
+            "total": "311,623.55",
             "spendable": "33,001.53",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "13,958.9",
-            "commission": "14,663.0"
+            "rewards": "13,958.96",
+            "commission": "14,663.06"
         },
         {
             "rank": 38,
             "name": "Байкальский капитал",
             "address": "und1yl2qed52k6vevw9a2ts9zjfgq6p5etcxlk2qpv",
-            "total": "307,324.17",
+            "total": "307,324.28",
             "spendable": "29,751.88",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "14,887.71",
-            "commission": "12,684.57"
+            "rewards": "14,887.77",
+            "commission": "12,684.63"
         },
         {
             "rank": 39,
             "name": "漸江水",
             "address": "und12rq8u2267q3qqhcd74e8ahfmva0d4nndkwye0n",
-            "total": "309,785.09",
+            "total": "309,785.21",
             "spendable": "30,960.53",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "13,645.91",
-            "commission": "15,178.65"
+            "rewards": "13,645.96",
+            "commission": "15,178.71"
         },
         {
             "rank": 40,
             "name": "BerlinFUNDCrew",
             "address": "und1vwx3xjjczj99jl2c7q3m8nwv9zessky0a0fnqf",
-            "total": "306,377.21",
+            "total": "306,377.32",
             "spendable": "29,634.65",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "14,107.11",
-            "commission": "12,635.46"
+            "rewards": "14,107.16",
+            "commission": "12,635.51"
         },
         {
             "rank": 41,
             "name": "Silverbullet",
             "address": "und1jx6svpjdexvqw4x39ffawyxcue92l7wpfzp3kx",
-            "total": "295,150.46",
+            "total": "295,150.54",
             "spendable": "24,924.81",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "13,956.75",
-            "commission": "6,268.9"
+            "rewards": "13,956.81",
+            "commission": "6,268.93"
         },
         {
             "rank": 42,
             "name": "CryptoSniper",
             "address": "und15vh69rugyjg4d7j0s0xt2jsqjlnng5x5ufh7w5",
-            "total": "290,490.02",
+            "total": "290,490.09",
             "spendable": "24,453.29",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "13,954.17",
-            "commission": "2,082.56"
+            "rewards": "13,954.23",
+            "commission": "2,082.57"
         },
         {
             "rank": 43,
             "name": "Helium",
             "address": "und1upzz8khp7asydr698uyzg3404sjg77uwkju45n",
-            "total": "289,544.92",
+            "total": "289,544.98",
             "spendable": "24,032.9",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "13,955.57",
-            "commission": "1,556.45"
+            "rewards": "13,955.62",
+            "commission": "1,556.46"
         },
         {
             "rank": 44,
             "name": "Xhosa",
             "address": "und1txytup3dk59xckd0ft9uk4qq0re3422htlmzup",
-            "total": "289,520.74",
+            "total": "289,520.8",
             "spendable": "24,004.36",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "13,956.43",
-            "commission": "1,559.94"
+            "rewards": "13,956.49",
+            "commission": "1,559.95"
         },
         {
             "rank": 45,
             "name": "SatsangG",
             "address": "und1hy95gced04wsdh67lxm6r5rsjchz9l9zpfw2gg",
-            "total": "293,690.33",
+            "total": "293,690.43",
             "spendable": "22,791.36",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "14,885.65",
-            "commission": "6,013.32"
+            "rewards": "14,885.72",
+            "commission": "6,013.35"
         },
         {
             "rank": 46,
             "name": "GALAXYStar",
             "address": "und1eaak68w6kwcgdyw6hdhkjed97mpayharyy2lwz",
-            "total": "288,908.54",
+            "total": "288,908.61",
             "spendable": "21,918.95",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "14,735.27",
-            "commission": "2,254.32"
+            "rewards": "14,735.33",
+            "commission": "2,254.33"
         },
         {
             "rank": 47,
             "name": "Iceman",
             "address": "und19vv6xz7aeef5539xhmtdqn9frrzxjypuecfypl",
-            "total": "291,865.28",
+            "total": "291,865.4",
             "spendable": "21,664.75",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "13,955.78",
-            "commission": "6,244.75"
+            "rewards": "13,955.86",
+            "commission": "6,244.78"
         },
         {
             "rank": 48,
             "name": "MediaRally",
             "address": "und1mdwfcchqc2jrm7swzkgey9d4u4umv9xvzjn7gd",
-            "total": "285,520.94",
+            "total": "285,521.01",
             "spendable": "18,735.68",
             "delegations": "250,000.0",
             "unbondings": "0.0",
-            "rewards": "14,960.42",
-            "commission": "1,824.84"
+            "rewards": "14,960.48",
+            "commission": "1,824.85"
         },
         {
             "rank": 49,
             "name": "BigBossCapital",
             "address": "und13wtxp8jp56cgv5s4llygear60u4jx08zv3g5hm",
-            "total": "281,868.62",
+            "total": "281,868.92",
             "spendable": "10,792.6",
             "delegations": "249,113.76",
             "unbondings": "0.0",
-            "rewards": "4,423.25",
-            "commission": "17,539.01"
+            "rewards": "4,423.31",
+            "commission": "17,539.25"
         },
         {
             "rank": 50,
             "name": "Wallet",
             "address": "und1542kg20up06qjuy06keflq4k94ancyhn2ppldc",
-            "total": "258,824.55",
+            "total": "258,824.62",
             "spendable": "5.35",
             "delegations": "255,385.0",
             "unbondings": "0.0",
-            "rewards": "3,434.2",
+            "rewards": "3,434.27",
             "commission": "0.0"
         },
         {
             "rank": 51,
             "name": "Wallet",
             "address": "und1hra8jzxep4lrmuz80ekjs7kp5kmd90vt73eerv",
-            "total": "229,243.24",
+            "total": "229,243.3",
             "spendable": "0.2",
             "delegations": "228,800.08",
             "unbondings": "0.0",
-            "rewards": "442.96",
+            "rewards": "443.02",
             "commission": "0.0"
         },
         {
@@ -597,33 +597,33 @@
             "rank": 54,
             "name": "Wallet",
             "address": "und1jnmmhf2nhexw34epvyf9sukl350p04pzeasehj",
-            "total": "218,238.27",
+            "total": "218,238.33",
             "spendable": "1.02",
             "delegations": "218,175.0",
             "unbondings": "0.0",
-            "rewards": "62.25",
+            "rewards": "62.31",
             "commission": "0.0"
         },
         {
             "rank": 55,
             "name": "FUNDBaron",
             "address": "und1yj09s0tngccqc6sf0v92nmcemr7zjhvpcnjy28",
-            "total": "203,335.56",
+            "total": "203,335.65",
             "spendable": "1.26",
             "delegations": "199,129.66",
             "unbondings": "0.0",
-            "rewards": "2,948.44",
-            "commission": "1,256.2"
+            "rewards": "2,948.5",
+            "commission": "1,256.23"
         },
         {
             "rank": 56,
             "name": "Wallet",
             "address": "und1mjnae2jrsu5wlfqv6su0850qgw3fep25dcj30z",
-            "total": "180,683.87",
+            "total": "180,683.92",
             "spendable": "6,564.49",
             "delegations": "163,983.6",
             "unbondings": "0.0",
-            "rewards": "10,135.78",
+            "rewards": "10,135.83",
             "commission": "0.0"
         },
         {
@@ -641,11 +641,11 @@
             "rank": 58,
             "name": "Wallet",
             "address": "und1dpa4uh8zygar2amy5yu4d8cz4q2vdumwq6ra2k",
-            "total": "172,028.17",
+            "total": "172,028.22",
             "spendable": "13.87",
             "delegations": "172,000.0",
             "unbondings": "0.0",
-            "rewards": "14.31",
+            "rewards": "14.35",
             "commission": "0.0"
         },
         {
@@ -674,22 +674,22 @@
             "rank": 61,
             "name": "Wallet",
             "address": "und1j783k8j6ngty7e6ryq6jkm5qzr6vutuguzqpq6",
-            "total": "153,052.47",
+            "total": "153,052.51",
             "spendable": "5,701.61",
             "delegations": "138,773.32",
             "unbondings": "0.0",
-            "rewards": "8,577.54",
+            "rewards": "8,577.58",
             "commission": "0.0"
         },
         {
             "rank": 62,
             "name": "Wallet",
             "address": "und1xlk39xez0xr4gcmex6s9nzth6ypn05shztt39t",
-            "total": "152,031.99",
+            "total": "152,032.03",
             "spendable": "0.86",
             "delegations": "151,928.81",
             "unbondings": "0.0",
-            "rewards": "102.32",
+            "rewards": "102.36",
             "commission": "0.0"
         },
         {
@@ -707,89 +707,89 @@
             "rank": 64,
             "name": "Wallet",
             "address": "und1lk2cvyh2eaz2h5meluc5nvxupfxalvnuwk7sth",
-            "total": "137,495.28",
+            "total": "137,495.31",
             "spendable": "0.14",
             "delegations": "135,970.85",
             "unbondings": "0.0",
-            "rewards": "1,524.28",
+            "rewards": "1,524.32",
             "commission": "0.0"
         },
         {
             "rank": 65,
             "name": "Wallet",
             "address": "und1rdef9w6erecyzzhll5qw97r5s754rg3je47h93",
-            "total": "124,325.37",
+            "total": "124,325.4",
             "spendable": "23,048.41",
             "delegations": "100,000.0",
             "unbondings": "0.0",
-            "rewards": "1,276.96",
+            "rewards": "1,276.99",
             "commission": "0.0"
         },
         {
             "rank": 66,
             "name": "Wallet",
             "address": "und173nm4yhlwp2rm7tp3r823wp32qrey4f3zt9tyx",
-            "total": "120,762.13",
+            "total": "120,762.16",
             "spendable": "22.26",
             "delegations": "116,975.4",
             "unbondings": "0.0",
-            "rewards": "3,764.47",
+            "rewards": "3,764.5",
             "commission": "0.0"
         },
         {
             "rank": 67,
             "name": "Wallet",
             "address": "und1ej8cmhks6shp3wdar8w3ael95mct2pdgpjg7d9",
-            "total": "120,321.58",
+            "total": "120,321.59",
             "spendable": "100,031.96",
             "delegations": "19,999.0",
             "unbondings": "0.0",
-            "rewards": "290.62",
+            "rewards": "290.63",
             "commission": "0.0"
         },
         {
             "rank": 68,
             "name": "Wallet",
             "address": "und1xjdpn4efththw3mnq2lh8l825hk05t9gg0mdy5",
-            "total": "120,002.28",
+            "total": "120,002.31",
             "spendable": "0.11",
             "delegations": "120,000.5",
             "unbondings": "0.0",
-            "rewards": "1.67",
+            "rewards": "1.7",
             "commission": "0.0"
         },
         {
             "rank": 69,
             "name": "Wallet",
             "address": "und1syzk6qk8jfk42pskzsheahwg5ugxjmln36f055",
-            "total": "119,157.51",
+            "total": "119,157.54",
             "spendable": "0.74",
             "delegations": "119,018.0",
             "unbondings": "0.0",
-            "rewards": "138.76",
+            "rewards": "138.79",
             "commission": "0.0"
         },
         {
             "rank": 70,
             "name": "Wallet",
             "address": "und1vt4a2zdlume6amdltr3ugqugk5k60e30zf5uyu",
-            "total": "118,101.43",
+            "total": "118,101.45",
             "spendable": "66,584.24",
             "delegations": "49,990.0",
             "unbondings": "0.0",
-            "rewards": "1,527.2",
+            "rewards": "1,527.21",
             "commission": "0.0"
         },
         {
             "rank": 71,
             "name": "Serenity",
             "address": "und16vt27tkaprtzs5gqt6t9xhan2f90lktrgex80j",
-            "total": "122,991.76",
+            "total": "122,991.8",
             "spendable": "5,125.37",
             "delegations": "106,559.22",
             "unbondings": "0.0",
-            "rewards": "6,273.42",
-            "commission": "5,033.75"
+            "rewards": "6,273.45",
+            "commission": "5,033.77"
         },
         {
             "rank": 72,
@@ -806,22 +806,22 @@
             "rank": 73,
             "name": "Wallet",
             "address": "und1tdmlt72ztu2sd6mdnfrnfw4rr6snnvqw7qn57k",
-            "total": "112,878.45",
+            "total": "112,878.48",
             "spendable": "74.93",
             "delegations": "109,087.64",
             "unbondings": "0.0",
-            "rewards": "3,715.88",
+            "rewards": "3,715.91",
             "commission": "0.0"
         },
         {
             "rank": 74,
             "name": "Wallet",
             "address": "und1qalaw098390ez00demh2vqnwp9nus8d6x2xg8u",
-            "total": "110,070.35",
+            "total": "110,070.38",
             "spendable": "0.08",
             "delegations": "110,046.28",
             "unbondings": "0.0",
-            "rewards": "23.99",
+            "rewards": "24.02",
             "commission": "0.0"
         },
         {
@@ -850,66 +850,66 @@
             "rank": 77,
             "name": "Wallet",
             "address": "und13l0f7ag6h042839796e4m0w8upn068ayug38fw",
-            "total": "105,840.04",
+            "total": "105,840.07",
             "spendable": "0.75",
             "delegations": "105,833.0",
             "unbondings": "0.0",
-            "rewards": "6.29",
+            "rewards": "6.32",
             "commission": "0.0"
         },
         {
             "rank": 78,
             "name": "Wallet",
             "address": "und1v0quqpta5hmal83mtdd2cnqgvyfgceyc6mdut3",
-            "total": "105,739.9",
+            "total": "105,739.92",
             "spendable": "3,423.6",
             "delegations": "100,541.9",
             "unbondings": "0.0",
-            "rewards": "1,774.4",
+            "rewards": "1,774.42",
             "commission": "0.0"
         },
         {
             "rank": 79,
             "name": "Wallet",
             "address": "und17sx6fkhenemcqmrulrukglwsqrsq2q4f4lcump",
-            "total": "103,896.85",
+            "total": "103,896.88",
             "spendable": "37.62",
             "delegations": "103,800.0",
             "unbondings": "0.0",
-            "rewards": "59.24",
+            "rewards": "59.26",
             "commission": "0.0"
         },
         {
             "rank": 80,
             "name": "Wallet",
             "address": "und172fvgvg0l3g8juqv0qht7s20lqn2hd5y6n23l4",
-            "total": "103,494.31",
+            "total": "103,494.34",
             "spendable": "0.29",
             "delegations": "103,488.1",
             "unbondings": "0.0",
-            "rewards": "5.92",
+            "rewards": "5.95",
             "commission": "0.0"
         },
         {
             "rank": 81,
             "name": "Wallet",
             "address": "und1kadpf9td5q4zfhjlvgq5au36mrpqxyc770px6z",
-            "total": "101,153.95",
+            "total": "101,153.97",
             "spendable": "2.03",
             "delegations": "100,000.99",
             "unbondings": "0.0",
-            "rewards": "1,150.93",
+            "rewards": "1,150.96",
             "commission": "0.0"
         },
         {
             "rank": 82,
             "name": "WoofWork",
             "address": "und14knj8ehsufrg5whtkrfrdwygp8mfwvp6lg6wee",
-            "total": "100,750.73",
+            "total": "100,750.76",
             "spendable": "3.79",
             "delegations": "100,000.0",
             "unbondings": "0.0",
-            "rewards": "645.25",
+            "rewards": "645.28",
             "commission": "101.69"
         },
         {
@@ -949,11 +949,11 @@
             "rank": 86,
             "name": "Wallet",
             "address": "und14yleercw2u3w775zjq882vk6f6j85usrqkg4wk",
-            "total": "84,243.68",
+            "total": "84,243.7",
             "spendable": "1.09",
             "delegations": "83,762.21",
             "unbondings": "0.0",
-            "rewards": "480.39",
+            "rewards": "480.4",
             "commission": "0.0"
         },
         {
@@ -971,55 +971,55 @@
             "rank": 88,
             "name": "Wallet",
             "address": "und17j7tw432aew6v9m4p0ehz9aq40j2efrp5kjaw0",
-            "total": "76,462.14",
+            "total": "76,462.16",
             "spendable": "181.76",
             "delegations": "75,998.0",
             "unbondings": "0.0",
-            "rewards": "282.38",
+            "rewards": "282.4",
             "commission": "0.0"
         },
         {
             "rank": 89,
             "name": "Wallet",
             "address": "und1vg7qfqmuawwge6wna0wt07kwzhjsh83q3g5lry",
-            "total": "72,796.19",
+            "total": "72,796.21",
             "spendable": "1.08",
             "delegations": "72,791.54",
             "unbondings": "0.0",
-            "rewards": "3.57",
+            "rewards": "3.59",
             "commission": "0.0"
         },
         {
             "rank": 90,
             "name": "Wallet",
             "address": "und173ap65weka8ne2uau50w2mys48ymuk2ew0zyeh",
-            "total": "69,909.88",
+            "total": "69,909.9",
             "spendable": "1.09",
             "delegations": "69,904.41",
             "unbondings": "0.0",
-            "rewards": "4.38",
+            "rewards": "4.4",
             "commission": "0.0"
         },
         {
             "rank": 91,
             "name": "Wallet",
             "address": "und1rj9qcwtcxsxjufa4y885lk82d2hd7q6rgzg2mz",
-            "total": "67,613.28",
+            "total": "67,613.3",
             "spendable": "102.48",
             "delegations": "67,505.0",
             "unbondings": "0.0",
-            "rewards": "5.8",
+            "rewards": "5.82",
             "commission": "0.0"
         },
         {
             "rank": 92,
             "name": "Wallet",
             "address": "und1ymamdt4y59m08r6lxzca7ham5h0q533v5u9ypk",
-            "total": "64,750.0",
+            "total": "64,750.02",
             "spendable": "1.74",
             "delegations": "64,003.6",
             "unbondings": "0.0",
-            "rewards": "744.66",
+            "rewards": "744.67",
             "commission": "0.0"
         },
         {
@@ -1037,11 +1037,11 @@
             "rank": 94,
             "name": "Wallet",
             "address": "und1e08kv6zmkz52c9uwgpzh7ct9kw689szjwjxmth",
-            "total": "63,351.05",
+            "total": "63,351.07",
             "spendable": "12.37",
             "delegations": "62,770.0",
             "unbondings": "0.0",
-            "rewards": "568.68",
+            "rewards": "568.7",
             "commission": "0.0"
         },
         {
@@ -1059,22 +1059,22 @@
             "rank": 96,
             "name": "Wallet",
             "address": "und1e2nqsshwlt5zj3n5vnlzfl7t2ykkvunlllwn64",
-            "total": "60,399.12",
+            "total": "60,399.13",
             "spendable": "10,051.82",
             "delegations": "50,001.0",
             "unbondings": "0.0",
-            "rewards": "346.3",
+            "rewards": "346.32",
             "commission": "0.0"
         },
         {
             "rank": 97,
             "name": "Wallet",
             "address": "und1fzzhlslx5gtury8kpmvhn40azf6tzcx3r0d9hy",
-            "total": "60,240.97",
+            "total": "60,240.98",
             "spendable": "0.68",
             "delegations": "60,220.0",
             "unbondings": "0.0",
-            "rewards": "20.29",
+            "rewards": "20.3",
             "commission": "0.0"
         },
         {
@@ -1092,44 +1092,44 @@
             "rank": 99,
             "name": "Wallet",
             "address": "und1tah4fw7y8sut4jfj3tp3lza9df2k75xde508pm",
-            "total": "58,799.86",
+            "total": "58,799.88",
             "spendable": "1,074.29",
             "delegations": "57,493.6",
             "unbondings": "0.0",
-            "rewards": "231.97",
+            "rewards": "231.98",
             "commission": "0.0"
         },
         {
             "rank": 100,
             "name": "Wallet",
             "address": "und1p6kpycpjfuj4y9ccc4asd6u7pg26al9m3mxh3z",
-            "total": "55,741.03",
+            "total": "55,741.04",
             "spendable": "0.79",
             "delegations": "55,240.6",
             "unbondings": "0.0",
-            "rewards": "499.63",
+            "rewards": "499.65",
             "commission": "0.0"
         },
         {
             "rank": 101,
             "name": "Wallet",
             "address": "und1u7avzw4e848vk3ju9gc0ke0d8a8xq2hxtyj8um",
-            "total": "55,440.27",
+            "total": "55,440.28",
             "spendable": "2,466.56",
             "delegations": "49,890.02",
             "unbondings": "0.0",
-            "rewards": "3,083.69",
+            "rewards": "3,083.7",
             "commission": "0.0"
         },
         {
             "rank": 102,
             "name": "Wallet",
             "address": "und1tk32syzg5n8u8cuqu4hy5keynd0ky0df84hj40",
-            "total": "55,003.42",
+            "total": "55,003.44",
             "spendable": "0.3",
             "delegations": "54,450.21",
             "unbondings": "0.0",
-            "rewards": "552.91",
+            "rewards": "552.93",
             "commission": "0.0"
         },
         {
@@ -1158,22 +1158,22 @@
             "rank": 105,
             "name": "Wallet",
             "address": "und1f47rc047vmq59px5g4qa0dnpz9r5r7h9ejjezy",
-            "total": "53,683.54",
+            "total": "53,683.56",
             "spendable": "3,153.13",
             "delegations": "50,000.86",
             "unbondings": "0.0",
-            "rewards": "529.56",
+            "rewards": "529.57",
             "commission": "0.0"
         },
         {
             "rank": 106,
             "name": "Wallet",
             "address": "und193j3umnfhv6dh3nsp2rp4hm2wlx9ssggcq3zks",
-            "total": "53,022.94",
+            "total": "53,022.96",
             "spendable": "0.55",
             "delegations": "50,000.0",
             "unbondings": "3,000.0",
-            "rewards": "22.39",
+            "rewards": "22.41",
             "commission": "0.0"
         },
         {
@@ -1191,11 +1191,11 @@
             "rank": 108,
             "name": "Wallet",
             "address": "und103c4pmvumhvk4tyfq2tx0n9x3ejg2csm5tvpcr",
-            "total": "50,778.33",
+            "total": "50,778.35",
             "spendable": "56.96",
             "delegations": "50,000.1",
             "unbondings": "0.0",
-            "rewards": "721.27",
+            "rewards": "721.29",
             "commission": "0.0"
         },
         {
@@ -1213,22 +1213,22 @@
             "rank": 110,
             "name": "Wallet",
             "address": "und12hze5gjtdf5r4440e8c7ca4jfl988qt3365ugr",
-            "total": "50,224.8",
+            "total": "50,224.82",
             "spendable": "2.47",
             "delegations": "49,512.0",
             "unbondings": "0.0",
-            "rewards": "710.33",
+            "rewards": "710.35",
             "commission": "0.0"
         },
         {
             "rank": 111,
             "name": "Wallet",
             "address": "und1eyt6dqp47laa5emk5yrmzq9rl7anz3kstrvmnr",
-            "total": "50,215.75",
+            "total": "50,215.76",
             "spendable": "18.01",
             "delegations": "49,440.57",
             "unbondings": "0.0",
-            "rewards": "757.17",
+            "rewards": "757.18",
             "commission": "0.0"
         },
         {
@@ -1290,11 +1290,11 @@
             "rank": 117,
             "name": "Wallet",
             "address": "und14kgf5pc944xx7uzq0yzy79v63mhsn7zr7572g9",
-            "total": "48,617.64",
+            "total": "48,617.65",
             "spendable": "3,451.99",
             "delegations": "45,000.0",
             "unbondings": "0.0",
-            "rewards": "165.65",
+            "rewards": "165.66",
             "commission": "0.0"
         },
         {
@@ -1312,33 +1312,33 @@
             "rank": 119,
             "name": "Wallet",
             "address": "und1xw42wexxur87taywz37wh8n4gez093tjznugj3",
-            "total": "47,096.54",
+            "total": "47,096.55",
             "spendable": "0.01",
             "delegations": "46,527.56",
             "unbondings": "0.0",
-            "rewards": "568.97",
+            "rewards": "568.98",
             "commission": "0.0"
         },
         {
             "rank": 120,
             "name": "Wallet",
             "address": "und17cltlzsfjs9pfwug8d6ea47af3d8nyu76l8kde",
-            "total": "45,772.02",
+            "total": "45,772.03",
             "spendable": "1.28",
             "delegations": "45,768.24",
             "unbondings": "0.0",
-            "rewards": "2.5",
+            "rewards": "2.51",
             "commission": "0.0"
         },
         {
             "rank": 121,
             "name": "Wallet",
             "address": "und1zpcrduuhzc6uchatvgfr9jjyfmaeu4xtwe7ldv",
-            "total": "45,308.56",
+            "total": "45,308.57",
             "spendable": "1,641.83",
             "delegations": "41,124.81",
             "unbondings": "0.0",
-            "rewards": "2,541.91",
+            "rewards": "2,541.93",
             "commission": "0.0"
         },
         {
@@ -1356,11 +1356,11 @@
             "rank": 123,
             "name": "Wallet",
             "address": "und16qpa7a8zw0gs63z7t6tp6am9xwlv8jt5x3p0ym",
-            "total": "43,341.66",
+            "total": "43,341.67",
             "spendable": "0.21",
             "delegations": "43,270.88",
             "unbondings": "0.0",
-            "rewards": "70.57",
+            "rewards": "70.58",
             "commission": "0.0"
         },
         {
@@ -1378,11 +1378,11 @@
             "rank": 125,
             "name": "Wallet",
             "address": "und1n0awwlynls324ymlysrn4evulq5cxvjy3jdkpf",
-            "total": "43,072.77",
+            "total": "43,072.78",
             "spendable": "24.97",
             "delegations": "42,800.0",
             "unbondings": "0.0",
-            "rewards": "247.8",
+            "rewards": "247.81",
             "commission": "0.0"
         },
         {
@@ -1422,11 +1422,11 @@
             "rank": 129,
             "name": "Wallet",
             "address": "und19al9hjmt2mvflc77nc4yeh2820mky5cst2rv56",
-            "total": "40,606.53",
+            "total": "40,606.55",
             "spendable": "0.43",
             "delegations": "40,597.48",
             "unbondings": "0.0",
-            "rewards": "8.63",
+            "rewards": "8.64",
             "commission": "0.0"
         },
         {
@@ -1455,11 +1455,11 @@
             "rank": 132,
             "name": "Wallet",
             "address": "und150ljkhlduxjmx6pn06vkmqcgzp3xdtzrnj593k",
-            "total": "39,104.21",
+            "total": "39,104.22",
             "spendable": "24,000.43",
             "delegations": "15,000.0",
             "unbondings": "0.0",
-            "rewards": "103.78",
+            "rewards": "103.79",
             "commission": "0.0"
         },
         {
@@ -1477,11 +1477,11 @@
             "rank": 134,
             "name": "Wallet",
             "address": "und1a00repuhj79fxg53rynyxtp27nz248dc78l8p0",
-            "total": "36,438.36",
+            "total": "36,438.37",
             "spendable": "1.02",
             "delegations": "34,860.0",
             "unbondings": "0.0",
-            "rewards": "1,577.33",
+            "rewards": "1,577.34",
             "commission": "0.0"
         },
         {
@@ -1499,7 +1499,7 @@
             "rank": 136,
             "name": "Wallet",
             "address": "und15cgvm3arnfscxrtfaearjtxeuqf736w5x4d8ch",
-            "total": "36,107.6",
+            "total": "36,107.61",
             "spendable": "10,708.43",
             "delegations": "25,157.04",
             "unbondings": "0.0",
@@ -1510,18 +1510,18 @@
             "rank": 137,
             "name": "Wallet",
             "address": "und1mdfap3um2kf5kgj5hwdcr8hu0k54jjkpycksky",
-            "total": "35,220.0",
+            "total": "35,220.01",
             "spendable": "1.71",
             "delegations": "35,038.0",
             "unbondings": "0.0",
-            "rewards": "180.29",
+            "rewards": "180.3",
             "commission": "0.0"
         },
         {
             "rank": 138,
             "name": "Wallet",
             "address": "und1gcjq9pznac3aur2580uhdq6m38sqge95zu6nfy",
-            "total": "33,827.45",
+            "total": "33,827.46",
             "spendable": "0.96",
             "delegations": "33,760.77",
             "unbondings": "0.0",
@@ -1532,7 +1532,7 @@
             "rank": 139,
             "name": "Wallet",
             "address": "und174du27a4a2hgmnjtt2qnlrsr4fqan8ghpyzkn6",
-            "total": "33,018.29",
+            "total": "33,018.3",
             "spendable": "0.2",
             "delegations": "32,980.34",
             "unbondings": "0.0",
@@ -1543,7 +1543,7 @@
             "rank": 140,
             "name": "Wallet",
             "address": "und19xkwrud92dnx0s926t09arqt492aknjvj0kumr",
-            "total": "33,007.77",
+            "total": "33,007.78",
             "spendable": "12,600.05",
             "delegations": "19,999.1",
             "unbondings": "0.0",
@@ -1554,22 +1554,22 @@
             "rank": 141,
             "name": "Wallet",
             "address": "und1ev9m9xzres95khw42e98fsmagqvp52ztlvm242",
-            "total": "32,937.2",
+            "total": "32,937.21",
             "spendable": "0.1",
             "delegations": "32,935.48",
             "unbondings": "0.0",
-            "rewards": "1.62",
+            "rewards": "1.63",
             "commission": "0.0"
         },
         {
             "rank": 142,
             "name": "Wallet",
             "address": "und1tyxfuy0amzsyc8ffwl68tvwk6fczrg4z9dm759",
-            "total": "32,524.09",
+            "total": "32,524.1",
             "spendable": "11.22",
             "delegations": "32,125.4",
             "unbondings": "0.0",
-            "rewards": "387.47",
+            "rewards": "387.48",
             "commission": "0.0"
         },
         {
@@ -1591,7 +1591,7 @@
             "spendable": "53.56",
             "delegations": "32,000.0",
             "unbondings": "0.0",
-            "rewards": "165.02",
+            "rewards": "165.03",
             "commission": "0.0"
         },
         {
@@ -1609,22 +1609,22 @@
             "rank": 146,
             "name": "Wallet",
             "address": "und1ugck375ut7kphpt6nt2lvgrge6pvzat7qxf3gu",
-            "total": "31,702.02",
+            "total": "31,702.03",
             "spendable": "88.43",
             "delegations": "31,612.0",
             "unbondings": "0.0",
-            "rewards": "1.58",
+            "rewards": "1.59",
             "commission": "0.0"
         },
         {
             "rank": 147,
             "name": "Wallet",
             "address": "und1mmkk8phnrdfzt56c7xej30zeuvu0h3glhjl9mt",
-            "total": "30,691.2",
+            "total": "30,691.21",
             "spendable": "88.99",
             "delegations": "29,999.0",
             "unbondings": "0.0",
-            "rewards": "603.22",
+            "rewards": "603.23",
             "commission": "0.0"
         },
         {
@@ -1635,18 +1635,18 @@
             "spendable": "15,399.75",
             "delegations": "14,500.0",
             "unbondings": "0.0",
-            "rewards": "489.73",
+            "rewards": "489.74",
             "commission": "0.0"
         },
         {
             "rank": 149,
             "name": "Wallet",
             "address": "und19rf4hma9t6jfgr63umdn7nz6f78wp45eswcnjg",
-            "total": "30,253.56",
+            "total": "30,253.57",
             "spendable": "12.66",
             "delegations": "30,025.0",
             "unbondings": "0.0",
-            "rewards": "215.9",
+            "rewards": "215.91",
             "commission": "0.0"
         },
         {
@@ -1745,7 +1745,7 @@
             "spendable": "4,196.6",
             "delegations": "23,298.71",
             "unbondings": "0.0",
-            "rewards": "1.27",
+            "rewards": "1.28",
             "commission": "0.0"
         },
         {
@@ -1774,33 +1774,33 @@
             "rank": 161,
             "name": "Wallet",
             "address": "und1l5055mvfjw6wnvmrl54zymfv9s4mzx0dar52d6",
-            "total": "26,270.3",
+            "total": "26,270.31",
             "spendable": "0.12",
             "delegations": "25,714.0",
             "unbondings": "0.0",
-            "rewards": "556.18",
+            "rewards": "556.19",
             "commission": "0.0"
         },
         {
             "rank": 162,
             "name": "Wallet",
             "address": "und1n4mmn2juzz6e30pnwtn5shwaghk6e5cq66llfc",
-            "total": "25,992.2",
+            "total": "25,992.21",
             "spendable": "26.51",
             "delegations": "25,861.64",
             "unbondings": "0.0",
-            "rewards": "104.05",
+            "rewards": "104.06",
             "commission": "0.0"
         },
         {
             "rank": 163,
             "name": "Wallet",
             "address": "und1hfpyj74gn6xfz5qvdvrxfdj2su8edxj73tehmz",
-            "total": "25,966.91",
+            "total": "25,966.92",
             "spendable": "7.06",
             "delegations": "25,958.6",
             "unbondings": "0.0",
-            "rewards": "1.25",
+            "rewards": "1.26",
             "commission": "0.0"
         },
         {
@@ -1829,7 +1829,7 @@
             "rank": 166,
             "name": "reFUND",
             "address": "und1k03uvkkzmtkvfedufaxft75yqdfkfgvgm77zwm",
-            "total": "24,850.46",
+            "total": "24,850.47",
             "spendable": "30.57",
             "delegations": "24,783.83",
             "unbondings": "0.0",
@@ -1840,7 +1840,7 @@
             "rank": 167,
             "name": "Wallet",
             "address": "und1l06n5lklwrklqncvam0fnkk80pekfnmfxcq9d0",
-            "total": "23,568.93",
+            "total": "23,568.94",
             "spendable": "6.44",
             "delegations": "23,427.69",
             "unbondings": "0.0",
@@ -1851,11 +1851,11 @@
             "rank": 168,
             "name": "Wallet",
             "address": "und129h32260x4el27quuv043jy52r6f68pm4u3crr",
-            "total": "23,489.33",
+            "total": "23,489.34",
             "spendable": "0.9",
             "delegations": "23,487.15",
             "unbondings": "0.0",
-            "rewards": "1.28",
+            "rewards": "1.29",
             "commission": "0.0"
         },
         {
@@ -1884,7 +1884,7 @@
             "rank": 171,
             "name": "Wallet",
             "address": "und1ey6rmhwwtaj6zv4uyr3f3x3n30a8edst5lf53m",
-            "total": "22,676.2",
+            "total": "22,676.21",
             "spendable": "1,444.25",
             "delegations": "19,996.0",
             "unbondings": "0.0",
@@ -1906,11 +1906,11 @@
             "rank": 173,
             "name": "Wallet",
             "address": "und14hhrwa7ca7gupdw9k4v0j86xp2789ehtjvyxqs",
-            "total": "21,494.9",
+            "total": "21,494.91",
             "spendable": "2.14",
             "delegations": "21,191.0",
             "unbondings": "0.0",
-            "rewards": "301.76",
+            "rewards": "301.77",
             "commission": "0.0"
         },
         {
@@ -1928,11 +1928,11 @@
             "rank": 175,
             "name": "Wallet",
             "address": "und1c6xet3m4qs5lmqqaxtu8m07snm5n6plegny46a",
-            "total": "20,536.96",
+            "total": "20,536.97",
             "spendable": "5,320.73",
             "delegations": "15,000.0",
             "unbondings": "0.0",
-            "rewards": "216.23",
+            "rewards": "216.24",
             "commission": "0.0"
         },
         {
@@ -1965,7 +1965,7 @@
             "spendable": "0.75",
             "delegations": "19,982.0",
             "unbondings": "0.0",
-            "rewards": "295.05",
+            "rewards": "295.06",
             "commission": "0.0"
         },
         {
@@ -2005,11 +2005,11 @@
             "rank": 182,
             "name": "Wallet",
             "address": "und1xa4gcy5ksuzc47zw5v5yz97jp2rdfs8se4z9wr",
-            "total": "19,785.72",
+            "total": "19,785.73",
             "spendable": "93.05",
             "delegations": "19,659.83",
             "unbondings": "0.0",
-            "rewards": "32.84",
+            "rewards": "32.85",
             "commission": "0.0"
         },
         {
@@ -2027,7 +2027,7 @@
             "rank": 184,
             "name": "Wallet",
             "address": "und1h34wfuna2ukpk9wsepnzy5nck9n22t8nz68paz",
-            "total": "19,171.24",
+            "total": "19,171.25",
             "spendable": "1.24",
             "delegations": "19,115.0",
             "unbondings": "0.0",
@@ -2042,7 +2042,7 @@
             "spendable": "2.2",
             "delegations": "18,890.0",
             "unbondings": "0.0",
-            "rewards": "11.76",
+            "rewards": "11.77",
             "commission": "0.0"
         },
         {
@@ -2071,34 +2071,34 @@
             "rank": 188,
             "name": "Wallet",
             "address": "und13nsz5kscnf93q3gedcrum2vtxh2epdvpn00k6j",
-            "total": "17,719.31",
+            "total": "17,719.32",
             "spendable": "0.22",
             "delegations": "17,718.85",
             "unbondings": "0.0",
-            "rewards": "0.24",
+            "rewards": "0.25",
             "commission": "0.0"
         },
         {
             "rank": 189,
             "name": "Chainmasters",
             "address": "und16hten3u6gqcu30t2rrt8e8ayn8690he0dnwfsu",
-            "total": "18,351.31",
+            "total": "18,351.39",
             "spendable": "51.75",
             "delegations": "17,520.88",
             "unbondings": "0.0",
-            "rewards": "35.75",
-            "commission": "742.92"
+            "rewards": "35.76",
+            "commission": "743.0"
         },
         {
             "rank": 190,
             "name": "xFUNDMRT",
             "address": "und1qmfw59gc7f6hggx9yr792j07jq40x9jugjjwwc",
-            "total": "28,147.12",
+            "total": "28,147.16",
             "spendable": "15,723.38",
             "delegations": "1,499.85",
             "unbondings": "0.0",
             "rewards": "87.46",
-            "commission": "10,836.43"
+            "commission": "10,836.48"
         },
         {
             "rank": 191,
@@ -2130,7 +2130,7 @@
             "spendable": "2.19",
             "delegations": "15,895.2",
             "unbondings": "0.0",
-            "rewards": "60.53",
+            "rewards": "60.54",
             "commission": "0.0"
         },
         {
@@ -2141,7 +2141,7 @@
             "spendable": "2.31",
             "delegations": "15,782.16",
             "unbondings": "0.0",
-            "rewards": "122.94",
+            "rewards": "122.95",
             "commission": "0.0"
         },
         {
@@ -2152,7 +2152,7 @@
             "spendable": "0.28",
             "delegations": "15,522.88",
             "unbondings": "0.0",
-            "rewards": "229.88",
+            "rewards": "229.89",
             "commission": "0.0"
         },
         {
@@ -2170,7 +2170,7 @@
             "rank": 197,
             "name": "Wallet",
             "address": "und1q753ek3zgh7wsyv5d7eg0newk0tmgdka2t9pt8",
-            "total": "15,700.54",
+            "total": "15,700.55",
             "spendable": "13.57",
             "delegations": "15,686.21",
             "unbondings": "0.0",
@@ -2185,7 +2185,7 @@
             "spendable": "73.92",
             "delegations": "14,997.0",
             "unbondings": "0.0",
-            "rewards": "627.18",
+            "rewards": "627.19",
             "commission": "0.0"
         },
         {
@@ -2273,7 +2273,7 @@
             "spendable": "3.38",
             "delegations": "12,672.0",
             "unbondings": "0.0",
-            "rewards": "226.72",
+            "rewards": "226.73",
             "commission": "0.0"
         },
         {
@@ -2284,7 +2284,7 @@
             "spendable": "481.25",
             "delegations": "11,266.87",
             "unbondings": "0.0",
-            "rewards": "696.4",
+            "rewards": "696.41",
             "commission": "0.0"
         },
         {
@@ -2335,7 +2335,7 @@
             "rank": 212,
             "name": "Wallet",
             "address": "und12c5f6xu905whk05hw5sn3hy030h30xhnu7xmx0",
-            "total": "11,890.6",
+            "total": "11,890.61",
             "spendable": "10.09",
             "delegations": "11,880.0",
             "unbondings": "0.0",
@@ -2383,7 +2383,7 @@
             "spendable": "2,134.9",
             "delegations": "9,001.86",
             "unbondings": "0.0",
-            "rewards": "41.84",
+            "rewards": "41.85",
             "commission": "0.0"
         },
         {
@@ -2423,7 +2423,7 @@
             "rank": 220,
             "name": "Wallet",
             "address": "und188nqs5zle62fr9qarkxk0460lygkvg6yrhdv03",
-            "total": "10,960.94",
+            "total": "10,960.95",
             "spendable": "0.15",
             "delegations": "10,927.49",
             "unbondings": "0.0",
@@ -2456,11 +2456,11 @@
             "rank": 223,
             "name": "Wallet",
             "address": "und12lykxzqm7dtmq0nve9c7clhqqpxnvju85zcl4h",
-            "total": "10,443.91",
+            "total": "10,443.92",
             "spendable": "0.36",
             "delegations": "10,089.0",
             "unbondings": "0.0",
-            "rewards": "354.55",
+            "rewards": "354.56",
             "commission": "0.0"
         },
         {
@@ -2533,7 +2533,7 @@
             "rank": 230,
             "name": "Wallet",
             "address": "und14xatzrrys6eemv4d7pakmswyf5cqlwsr05rhu5",
-            "total": "10,063.45",
+            "total": "10,063.46",
             "spendable": "2,000.73",
             "delegations": "8,062.51",
             "unbondings": "0.0",
@@ -2588,18 +2588,18 @@
             "rank": 235,
             "name": "Wallet",
             "address": "und1f9lxckzjluad94nu6yjsp7jtrd0x9kxhes6elk",
-            "total": "9,399.94",
+            "total": "9,399.95",
             "spendable": "164.94",
             "delegations": "9,100.8",
             "unbondings": "0.0",
-            "rewards": "134.2",
+            "rewards": "134.21",
             "commission": "0.0"
         },
         {
             "rank": 236,
             "name": "Wallet",
             "address": "und1ee7663559mla0w2pw0gm9yrdrs8eptdxw5xdge",
-            "total": "9,322.02",
+            "total": "9,322.03",
             "spendable": "7.14",
             "delegations": "9,312.0",
             "unbondings": "0.0",
@@ -2610,11 +2610,11 @@
             "rank": 237,
             "name": "Wallet",
             "address": "und18rpqturh9ztj7k2umnuftjd9zvewthjzsyxqq9",
-            "total": "9,289.95",
+            "total": "9,289.96",
             "spendable": "1.71",
             "delegations": "9,276.0",
             "unbondings": "0.0",
-            "rewards": "12.24",
+            "rewards": "12.25",
             "commission": "0.0"
         },
         {
@@ -2665,7 +2665,7 @@
             "rank": 242,
             "name": "Wallet",
             "address": "und1l79axqpt06hgh34gclx8naz3xzmfzta2fzwpwy",
-            "total": "8,557.99",
+            "total": "8,558.0",
             "spendable": "38.07",
             "delegations": "8,300.0",
             "unbondings": "0.0",
@@ -2731,7 +2731,7 @@
             "rank": 248,
             "name": "Wallet",
             "address": "und1hfp5smgud7mdj2fe5q3hrjy8e3yaqmzhtunmea",
-            "total": "7,813.09",
+            "total": "7,813.1",
             "spendable": "2,750.49",
             "delegations": "4,999.0",
             "unbondings": "0.0",
@@ -2852,11 +2852,11 @@
             "rank": 259,
             "name": "Wallet",
             "address": "und19ng4y3hlxh6gcxjazzn4tk2e56utwrs4vh4lyj",
-            "total": "6,938.9",
+            "total": "6,938.91",
             "spendable": "243.8",
             "delegations": "6,305.37",
             "unbondings": "0.0",
-            "rewards": "389.73",
+            "rewards": "389.74",
             "commission": "0.0"
         },
         {
@@ -2874,7 +2874,7 @@
             "rank": 261,
             "name": "Wallet",
             "address": "und1k6ms7x8a6gzzmcnfdm4976newjmg37fv606zy8",
-            "total": "6,391.68",
+            "total": "6,391.69",
             "spendable": "150.64",
             "delegations": "6,132.16",
             "unbondings": "0.0",
@@ -2885,7 +2885,7 @@
             "rank": 262,
             "name": "Wallet",
             "address": "und1pfuh4s8hfwnz9n4qqq2mn3qk4hx7fzydfzvunt",
-            "total": "6,385.47",
+            "total": "6,385.48",
             "spendable": "2.82",
             "delegations": "6,361.0",
             "unbondings": "0.0",
@@ -2907,7 +2907,7 @@
             "rank": 264,
             "name": "Wallet",
             "address": "und1s24n5cpx9qgkg64hae8ae4rrklfv8wct86v6ju",
-            "total": "6,288.0",
+            "total": "6,288.01",
             "spendable": "0.02",
             "delegations": "6,210.0",
             "unbondings": "0.0",
@@ -3021,7 +3021,7 @@
             "spendable": "2,634.29",
             "delegations": "2,500.0",
             "unbondings": "0.0",
-            "rewards": "48.98",
+            "rewards": "48.99",
             "commission": "0.0"
         },
         {
@@ -3098,7 +3098,7 @@
             "spendable": "1.09",
             "delegations": "4,773.0",
             "unbondings": "0.0",
-            "rewards": "188.74",
+            "rewards": "188.75",
             "commission": "0.0"
         },
         {
@@ -3149,7 +3149,7 @@
             "rank": 286,
             "name": "Wallet",
             "address": "und1tflwk0htjntlw5ymmty47zzwy2sfm2tvhag6ae",
-            "total": "4,832.93",
+            "total": "4,832.94",
             "spendable": "1.88",
             "delegations": "4,830.45",
             "unbondings": "0.0",
@@ -3242,7 +3242,7 @@
             "delegations": "2,319.54",
             "unbondings": "0.0",
             "rewards": "82.14",
-            "commission": "2,115.27"
+            "commission": "2,115.28"
         },
         {
             "rank": 295,
@@ -3318,7 +3318,7 @@
             "spendable": "0.39",
             "delegations": "4,067.0",
             "unbondings": "0.0",
-            "rewards": "34.03",
+            "rewards": "34.04",
             "commission": "0.0"
         },
         {
@@ -3369,12 +3369,12 @@
             "rank": 306,
             "name": "Shib Army",
             "address": "und1gmd59w8xaxamev9488ygq6srlp727574232lf4",
-            "total": "5,873.27",
+            "total": "5,873.28",
             "spendable": "1,305.12",
             "delegations": "1,999.8",
             "unbondings": "0.0",
             "rewards": "120.33",
-            "commission": "2,448.02"
+            "commission": "2,448.03"
         },
         {
             "rank": 307,
@@ -3765,7 +3765,7 @@
             "rank": 342,
             "name": "DigitalFarmlandxAtlantisLabsLLC",
             "address": "und1l8mtctswtccd8qgunxm29mr0hpfm323tml3jd5",
-            "total": "2,254.96",
+            "total": "2,254.97",
             "spendable": "0.56",
             "delegations": "2,113.0",
             "unbondings": "0.0",
@@ -3853,11 +3853,11 @@
             "rank": 350,
             "name": "Wallet",
             "address": "und1cqp73vqnv6v33v3wp7yur0fmue44hek68h4vax",
-            "total": "1,986.86",
+            "total": "1,986.87",
             "spendable": "0.17",
             "delegations": "1,951.73",
             "unbondings": "0.0",
-            "rewards": "34.96",
+            "rewards": "34.97",
             "commission": "0.0"
         },
         {
@@ -4051,12 +4051,12 @@
             "rank": 368,
             "name": "FUNDManiac",
             "address": "und1sul6du48nnj4nd7x0u9j70ndd2l4r8qnqnw9kk",
-            "total": "1,645.23",
+            "total": "1,645.26",
             "spendable": "1,474.63",
             "delegations": "1.0",
             "unbondings": "0.0",
             "rewards": "0.0",
-            "commission": "169.6"
+            "commission": "169.63"
         },
         {
             "rank": 369,
@@ -4271,7 +4271,7 @@
             "rank": 388,
             "name": "Wallet",
             "address": "und1f5a6l3jg47lmclqzvhpxxzpljtwek7t2n4prd7",
-            "total": "1,043.02",
+            "total": "1,043.03",
             "spendable": "3.55",
             "delegations": "1,035.05",
             "unbondings": "0.0",
@@ -4491,18 +4491,18 @@
             "rank": 408,
             "name": "FUND-Family",
             "address": "und18clcgl90cs99yt4zrzxj9dyf0dsd343faf6hze",
-            "total": "1,188.74",
+            "total": "1,188.76",
             "spendable": "331.48",
             "delegations": "499.95",
             "unbondings": "0.0",
             "rewards": "3.47",
-            "commission": "353.84"
+            "commission": "353.85"
         },
         {
             "rank": 409,
             "name": "Wallet",
             "address": "und1gyq7ud6jp8krhxgs88j549ankd2vwj8qnhrhfs",
-            "total": "824.68",
+            "total": "824.69",
             "spendable": "7.76",
             "delegations": "800.0",
             "unbondings": "0.0",
@@ -4546,7 +4546,7 @@
             "rank": 413,
             "name": "Wallet",
             "address": "und15qhucr5u00lszck7dslyv52cpkaywte8aqznzv",
-            "total": "768.93",
+            "total": "768.94",
             "spendable": "0.98",
             "delegations": "756.98",
             "unbondings": "0.0",
@@ -4810,12 +4810,12 @@
             "rank": 437,
             "name": "XFUND4EVER",
             "address": "und1u8czkjqx2tfu6y6t968uk94lvtpdnnzeedahpc",
-            "total": "7,869.17",
+            "total": "7,869.31",
             "spendable": "1.41",
             "delegations": "411.0",
             "unbondings": "0.0",
             "rewards": "3.71",
-            "commission": "7,453.05"
+            "commission": "7,453.19"
         },
         {
             "rank": 438,
@@ -4975,12 +4975,12 @@
             "rank": 452,
             "name": "Ringoshi",
             "address": "und1fryf3lkxr3ptufnhqrek03e3vn38wz6ckzl0xu",
-            "total": "318.63",
+            "total": "318.65",
             "spendable": "2.9",
             "delegations": "300.0",
             "unbondings": "0.0",
             "rewards": "0.05",
-            "commission": "15.68"
+            "commission": "15.7"
         },
         {
             "rank": 453,
@@ -5151,18 +5151,18 @@
             "rank": 468,
             "name": "rebirth",
             "address": "und13psclh7a5cz28dytu5qafzp759nygdlgc7mvps",
-            "total": "680.54",
+            "total": "680.56",
             "spendable": "197.23",
             "delegations": "1.0",
             "unbondings": "0.0",
             "rewards": "0.01",
-            "commission": "482.31"
+            "commission": "482.33"
         },
         {
             "rank": 469,
             "name": "FUNDLatam",
             "address": "und1ph28suf3e24tg6chy0ww63g68gqemjjgzwm60f",
-            "total": "326.88",
+            "total": "326.89",
             "spendable": "7.18",
             "delegations": "185.98",
             "unbondings": "0.0",
@@ -24689,127 +24689,127 @@
             "rank": 1,
             "name": "BigBossCapital",
             "address": "undvaloper13wtxp8jp56cgv5s4llygear60u4jx08z88ylha",
-            "commission": "17,539.01"
+            "commission": "17,539.25"
         },
         {
             "rank": 2,
             "name": "漸江水",
             "address": "undvaloper12rq8u2267q3qqhcd74e8ahfmva0d4nndacgj04",
-            "commission": "15,178.65"
+            "commission": "15,178.71"
         },
         {
             "rank": 3,
             "name": "Archimedes",
             "address": "undvaloper1jcg96ke6lplr4r9p2dj4v4hnw7dcf5cs9stg9v",
-            "commission": "14,663.0"
+            "commission": "14,663.06"
         },
         {
             "rank": 4,
             "name": "Байкальский капитал",
             "address": "undvaloper1yl2qed52k6vevw9a2ts9zjfgq6p5etcx5qxtp2",
-            "commission": "12,684.57"
+            "commission": "12,684.63"
         },
         {
             "rank": 5,
             "name": "BerlinFUNDCrew",
             "address": "undvaloper1vwx3xjjczj99jl2c7q3m8nwv9zessky0ke9cq0",
-            "commission": "12,635.46"
+            "commission": "12,635.51"
         },
         {
             "rank": 6,
             "name": "xFUNDMRT",
             "address": "undvaloper1qmfw59gc7f6hggx9yr792j07jq40x9jury79w7",
-            "commission": "10,836.43"
+            "commission": "10,836.48"
         },
         {
             "rank": 7,
             "name": "XFUND4EVER",
             "address": "undvaloper1u8czkjqx2tfu6y6t968uk94lvtpdnnzejm3up7",
-            "commission": "7,453.05"
+            "commission": "7,453.19"
         },
         {
             "rank": 8,
             "name": "Silverbullet",
             "address": "undvaloper1jx6svpjdexvqw4x39ffawyxcue92l7wpz5d6kq",
-            "commission": "6,268.9"
+            "commission": "6,268.93"
         },
         {
             "rank": 9,
             "name": "Iceman",
             "address": "undvaloper19vv6xz7aeef5539xhmtdqn9frrzxjypujw90pe",
-            "commission": "6,244.75"
+            "commission": "6,244.78"
         },
         {
             "rank": 10,
             "name": "SatsangG",
             "address": "undvaloper1hy95gced04wsdh67lxm6r5rsjchz9l9z2lzpgw",
-            "commission": "6,013.32"
+            "commission": "6,013.35"
         },
         {
             "rank": 11,
             "name": "Serenity",
             "address": "undvaloper16vt27tkaprtzs5gqt6t9xhan2f90lktrr02v05",
-            "commission": "5,033.75"
+            "commission": "5,033.77"
         },
         {
             "rank": 12,
             "name": "Shib Army",
             "address": "undvaloper1gmd59w8xaxamev9488ygq6srlp727574p8x5fn",
-            "commission": "2,448.02"
+            "commission": "2,448.03"
         },
         {
             "rank": 13,
             "name": "GALAXYStar",
             "address": "undvaloper1eaak68w6kwcgdyw6hdhkjed97mpayhar0jx5wy",
-            "commission": "2,254.32"
+            "commission": "2,254.33"
         },
         {
             "rank": 14,
             "name": "CIVians",
             "address": "undvaloper10rrwge9erexjwqs52k4cagz6m8x68jutua4e64",
-            "commission": "2,115.27"
+            "commission": "2,115.28"
         },
         {
             "rank": 15,
             "name": "CryptoSniper",
             "address": "undvaloper15vh69rugyjg4d7j0s0xt2jsqjlnng5x5hlm4wj",
-            "commission": "2,082.56"
+            "commission": "2,082.57"
         },
         {
             "rank": 16,
             "name": "MediaRally",
             "address": "undvaloper1mdwfcchqc2jrm7swzkgey9d4u4umv9xvfyl4gt",
-            "commission": "1,824.84"
+            "commission": "1,824.85"
         },
         {
             "rank": 17,
             "name": "Xhosa",
             "address": "undvaloper1txytup3dk59xckd0ft9uk4qq0re3422hqfhfu8",
-            "commission": "1,559.94"
+            "commission": "1,559.95"
         },
         {
             "rank": 18,
             "name": "Helium",
             "address": "undvaloper1upzz8khp7asydr698uyzg3404sjg77uways754",
-            "commission": "1,556.45"
+            "commission": "1,556.46"
         },
         {
             "rank": 19,
             "name": "FUNDBaron",
             "address": "undvaloper1yj09s0tngccqc6sf0v92nmcemr7zjhvpn9702p",
-            "commission": "1,256.2"
+            "commission": "1,256.23"
         },
         {
             "rank": 20,
             "name": "Chainmasters",
             "address": "undvaloper16hten3u6gqcu30t2rrt8e8ayn8690he0x9zzs6",
-            "commission": "742.92"
+            "commission": "743.0"
         },
         {
             "rank": 21,
             "name": "rebirth",
             "address": "undvaloper13psclh7a5cz28dytu5qafzp759nygdlgngh8pk",
-            "commission": "482.31"
+            "commission": "482.33"
         },
         {
             "rank": 22,
@@ -24821,13 +24821,13 @@
             "rank": 23,
             "name": "FUND-Family",
             "address": "undvaloper18clcgl90cs99yt4zrzxj9dyf0dsd343fklkuzl",
-            "commission": "353.84"
+            "commission": "353.85"
         },
         {
             "rank": 24,
             "name": "FUNDManiac",
             "address": "undvaloper1sul6du48nnj4nd7x0u9j70ndd2l4r8qnt9zwks",
-            "commission": "169.6"
+            "commission": "169.63"
         },
         {
             "rank": 25,
@@ -24869,7 +24869,7 @@
             "rank": 31,
             "name": "Ringoshi",
             "address": "undvaloper1fryf3lkxr3ptufnhqrek03e3vn38wz6ca5nyx6",
-            "commission": "15.68"
+            "commission": "15.7"
         },
         {
             "rank": 32,
