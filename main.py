@@ -8,8 +8,16 @@ start = time.time()
 wallets = []
 validators = []
 
-url = f'http://localhost:1317/cosmos'
-#url = f'https://rest.unification.io/cosmos'
+# url = f'http://localhost:1317/cosmos'
+url = f'https://rest.unification.io/cosmos'
+
+jsonpath = os.environ.get('JSON_PATH')
+
+if jsonpath is None:
+    jsonpath = "./wallets.json"
+elif jsonpath[-1] == "/":
+    jsonpath = f"{jsonpath}/wallets.json"
+
 
 params={'pagination.limit' : '10000000000000'}
 req = requests.session()
@@ -169,7 +177,7 @@ info = {
     "validators" : validators,   
 }
 
-with open('wallets.json', 'w',encoding='utf8') as u:
+with open(jsonpath, 'w',encoding='utf8') as u:
     json.dump(info,u,indent=4,ensure_ascii=False)
     
 if (time.time()-start)/60 > 1:
