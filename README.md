@@ -3,19 +3,9 @@ Script to query all the balances of wallets on the Unification Mainchain, and ra
 
 Best if run using a local node with API enabled (see https://github.com/refundvalidator/RapidUND for quick setup of a local node)
 
-Can be run with public Unification provided API endpoints, although this method is significantly slower. To achieve this, change the variable 
+Amounts are rounded 
 
-`url = f'http://localhost:1317/cosmos'` 
-
-to 
-
-`url = f'https://rest.unification.io/cosmos'`
-
-Amounts are rounded to the nearest 2 decimal places.
-
-wallets.json is automatically updated every 3 minutes on this page, for easy reference.
-
-### If you would like your wallet to be named in the list please add it to the `named.py` file and sumbit a pull request, or message me directly
+### If you would like your wallet to be named in the list please add it to the `named_wallets.py` file and sumbit a pull request, or message me directly
 
 ## Results will include the following results:
 
@@ -26,13 +16,12 @@ wallets.json is automatically updated every 3 minutes on this page, for easy ref
 -Total Delegations
 -Total Unbondings
 -Total Rewards
+-Total Comission
+-Total eFUND Locked
+-Total eFUND Spent
 -Grand Total
 ```
 
-### For Every Validator (Including Jailed):
-```
--Total Comissions
-```
 # Script Requirements
 
 `python3`
